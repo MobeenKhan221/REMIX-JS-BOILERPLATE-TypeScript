@@ -1,5 +1,7 @@
 # Welcome to Remix!
 
+<h1 >Author:</h1> Mobeen Ahmad
+
 - 📖 [Remix docs](https://remix.run/docs)
 
 ## Development

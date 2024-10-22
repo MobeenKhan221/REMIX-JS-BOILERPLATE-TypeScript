@@ -1,6 +1,6 @@
 # Welcome to Remix!
 
-<h1 >Author:</h1> Mobeen Ahmad
+<h1 >Author:</h1> <b>Mobeen Ahmad</b>
 
 - 📖 [Remix docs](https://remix.run/docs)
 
